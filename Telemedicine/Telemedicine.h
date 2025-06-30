@@ -15,7 +15,7 @@
 #include <QDebug>
 #include <QFuture>
 #include <QFutureWatcher>
-#include <QtConcurrent/QtConcurrentRun>  // 正确使用 Qt 的并发头文件
+
 #include <QElapsedTimer>
 using namespace cv;
 using namespace std;
